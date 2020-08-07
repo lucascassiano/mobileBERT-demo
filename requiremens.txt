@@ -1,0 +1,5 @@
+tensorflow
+bert-for-tf2
+numpy
+wikipedia
+flask

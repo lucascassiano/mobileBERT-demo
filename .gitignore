@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# models from Google
+mobilebert_float_20191023.tflite
+vocab.txt

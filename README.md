@@ -20,14 +20,14 @@ pip3 install -r requirements.txt
 ```
 
 ### download the Model
-(Download pre-trained BERT here)[https://www.tensorflow.org/lite/models/bert_qa/overview] 
+[Download starter model and vocab](https://www.tensorflow.org/lite/models/bert_qa/overview) 
 and copy it to 
 ```
 ./demo/mobilebert/
     + vocab.txt
     + mobilebert_float_20191023.tflite
 ```
-and you are all set ;) 
+and you are all set 😉
 
 ### run server
 ```sh
